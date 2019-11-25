@@ -1,5 +1,5 @@
 def hello
-  p "abcdeokaoaka."
+  p "じゅお."
 end
 
 hello
