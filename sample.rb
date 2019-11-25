@@ -1,5 +1,5 @@
 def hello
-  p "aaaa."
+  p "abcd."
 end
 
 hello
