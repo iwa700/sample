@@ -1,5 +1,5 @@
 def hello
-  p "じゅおおaaa."
+  p "hello, Git." 
 end
 
 hello
