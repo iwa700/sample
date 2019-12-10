@@ -1,5 +1,5 @@
 def hello
-  p "hello, GitHub DESKTP."
+  p "hello, GitHub DESKToooP."
 end
 
 hello
