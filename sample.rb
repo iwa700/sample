@@ -1,5 +1,5 @@
 def hello
-  p "じゅ."
+  p "hello, GitHub."
 end
 
 hello
